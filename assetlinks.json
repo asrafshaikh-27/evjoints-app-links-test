@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.evjoints",
+      "sha256_cert_fingerprints": [
+        "BB:29:D8:7C:1F:5C:C2:FC:95:C6:98:03:02:71:E2:B1:76:28:22:EC:6F:C9:65:79:4B:C4:0B:44:63:A1:36:0F",
+        "1A:0F:FA:C0:0B:BC:47:F8:97:C6:CF:DD:6E:0E:90:7A:FE:C3:D2:22:DC:C1:40:7A:F8:3E:A7:74:55:19:F7:6D"
+      ]
+    }
+  }
+]
